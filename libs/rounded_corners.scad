@@ -1,7 +1,7 @@
 // Round Corners
 // author: Bradley Jones
 
-$fn=50;
+$fn=30;
 
 // Makes the cut out required to diff with the cube
 module cut_out(radius, height) {
